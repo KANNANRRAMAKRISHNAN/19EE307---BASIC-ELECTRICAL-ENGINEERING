@@ -1,4 +1,4 @@
-## Exp. No. 1(a)
+## Exp. No. 1
 **Date:**  
 
 ## FFLUORESCENT LAMP
