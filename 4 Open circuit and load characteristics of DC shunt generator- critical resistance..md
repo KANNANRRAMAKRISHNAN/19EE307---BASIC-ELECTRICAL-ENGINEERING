@@ -6,6 +6,9 @@
 ## link
 https://ems-iitr.vlabs.ac.in/exp/load-characteristics-dc-shunt/index.html 
 
+## Aim
+To study the load characterstics of DC Shunt Generator. Draw the internal characteristics and external characteristics under different loading condition.
+
 ## Theory
 <img width="1559" height="753" alt="image" src="https://github.com/user-attachments/assets/935ba909-c90f-4917-b778-4f9bd65c88d7" />
 <img width="1549" height="859" alt="image" src="https://github.com/user-attachments/assets/6ab06aaf-0cf4-4b89-92de-83268dc6fb7a" />
