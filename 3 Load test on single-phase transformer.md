@@ -14,6 +14,8 @@
 <img width="1401" height="854" alt="image" src="https://github.com/user-attachments/assets/4728fb57-67ff-45eb-a17d-d7eb54102166" />
 <img width="1284" height="386" alt="image" src="https://github.com/user-attachments/assets/9ec76258-0034-4d85-8ca5-d8e829917942" />
 
+## Link
+https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html 
 
 # Tabulation /Graph
 
